@@ -14,9 +14,11 @@
 <?php
 $my_name = 'Marcio Woitek Junior';
 $hash_my_name = hash('sha256', $my_name);
-echo "The SHA256 hash of \"$my_name\" is $hash_my_name.\n";
+$output_str = "<p>The SHA256 hash of \"$my_name\" is $hash_my_name.</p>\n";
+echo htmlspecialchars($output_str);
 ?>
-<pre>ASCII ART:
+<p>ASCII ART:</p>
+<pre>
      __       __
     |  \     /  \
     | $$\   /  $$
