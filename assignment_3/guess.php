@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Guessing Game for Marcio Woitek Junior</title>
+<title>Marcio Woitek Junior</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
