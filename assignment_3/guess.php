@@ -1,10 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="author" content="Marcio Woitek Junior">
-<meta name="description" content="Assignment: A Guessing Game and HTTP GET Parameters">
-<meta name="viewport" content="width=device-width">
 <title>Guessing Game for Marcio Woitek Junior</title>
 </head>
 <body>
