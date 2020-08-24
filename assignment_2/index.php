@@ -11,12 +11,12 @@
 </head>
 <body>
 <h1>Marcio Woitek Junior PHP</h1>
-<?php
+<p><?php
 $my_name = 'Marcio Woitek Junior';
 $hash_my_name = hash('sha256', $my_name);
-$output_str = "<p>The SHA256 hash of \"$my_name\" is $hash_my_name.</p>\n";
-echo htmlspecialchars($output_str);
-?>
+$output_str = "The SHA256 hash of \"$my_name\" is $hash_my_name.\n";
+echo $output_str;
+?></p>
 <p>ASCII ART:</p>
 <pre>
      __       __
