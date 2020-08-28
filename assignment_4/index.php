@@ -73,7 +73,7 @@ if (isset($_GET['md5'])) {
 
 ?>
 </pre>
-<p>Original Text: <?= htmlentities($goodtext); ?></p>
+<p>PIN: <?= htmlentities($goodtext); ?></p>
 <form>
 <input type='text' name='md5' size='60'>
 <input type='submit' value='Crack MD5'>
