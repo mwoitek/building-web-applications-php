@@ -2,7 +2,7 @@
 <html>
 <head>
 <?php require_once 'bootstrap.php'; ?>
-<title>Rock Paper Scissors</title>
+<title>Marcio Woitek Junior | Rock Paper Scissors</title>
 </head>
 <body>
 <div class='container'>

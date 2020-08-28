@@ -59,7 +59,7 @@ $result = check($computer, $human);
 <html>
 <head>
 <?php require_once 'bootstrap.php'; ?>
-<title>Rock, Paper, Scissors Game</title>
+<title>Marcio Woitek Junior | Rock, Paper, Scissors Game</title>
 </head>
 <body>
 <div class='container'>
